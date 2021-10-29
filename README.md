@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring GIT
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on Project Governance, Code Reviews & Deployment Automation
-- 📫 How to reach me 28.prasad(AtTheRate)gmail.com
+- 📫 How to reach me 28.prasad(AtTheRate)gmail.com and on udupi.prasad@Gmail.com
 
 <!---
 udupi-prasad/udupi-prasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
